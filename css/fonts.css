@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?f0sqg0');
+  src:  url('../fonts/icomoon.eot?f0sqg0#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?f0sqg0') format('truetype'),
+    url('../fonts/icomoon.woff?f0sqg0') format('woff'),
+    url('../fonts/icomoon.svg?f0sqg0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-viber1:before {
+  content: "\e903";
+  color: #665cac;
+}
+.icon-whatsapp:before {
+  content: "\e902";
+  color: #25d366;
+}
+.icon-viber:before {
+  content: "\e900";
+  color: #665cac;
+}
+.icon-recycle:before {
+  content: "\e901";
+}
+.icon-book:before {
+  content: "\e91f";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-arrow-right:before {
+  content: "\ea34";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp1:before {
+  content: "\ea93";
+}
